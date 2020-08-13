@@ -1,0 +1,19 @@
+.box {
+    scroll-behavior: smooth;
+}
+
+.node rect {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+  
+.node text { font: 14px sans-serif; }
+  
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 3px;
+  }
